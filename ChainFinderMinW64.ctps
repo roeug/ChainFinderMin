@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ChainFinderMinW64.ppr"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="19"/>
+        <CursorPos X="28" Y="39"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="UnitChainFinderMin.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="_FormChainFinder"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="503"/>
+        <CursorPos X="5" Y="530"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="UnitSplashFinderMin.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="_FormSplashFinder"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="8"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="23"/>
+        <CursorPos X="64" Y="13"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="UnitDM_OOB.pas"/>
+        <FRMtype Value="300"/>
+        <IsPartOfProject Value="True"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DM_OOD.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="23"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="UnitAddStateMin.pas"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="33"/>
+        <CursorPos X="14" Y="53"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\ChainSolverMin_was\ChainClassesMin.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\ChainSolverMin_was\EuLibMin.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\ChainSolverMin_was\NuclideClassesMin.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\nkeagLib_codetyphon\tmp\UnitDM_OOB.pas"/>
+        <FRMtype Value="0"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="NuclideClassesMin.pas"/>
+        <FRMtype Value="0"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="6"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="24" Y="13"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="EuLibMin.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="7"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="167"/>
+        <CursorPos X="2" Y="181"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Parsing.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="58"/>
+        <CursorPos X="10" Y="58"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ObjectsMin.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="17"/>
+        <CursorPos X="22" Y="31"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\lcl\interfaces\win32\win32callback.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2080"/>
+        <CursorPos Y="2093"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ChainClassesMin.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="397"/>
+        <CursorPos X="23" Y="416"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="RXTCONST.PAS"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="RXTConst"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="28"/>
+        <CursorPos Y="55"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="UnitChainFinderMin.pas"/>
+        <Caret Line="447" Column="48" TopLine="424"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitChainFinderMin.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitChainFinderMin.pas"/>
+        <Caret Line="50" TopLine="33"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitChainFinderMin.pas"/>
+        <Caret Line="55" TopLine="33"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitChainFinderMin.pas"/>
+        <Caret Line="455" TopLine="436"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitChainFinderMin.pas"/>
+        <Caret Line="215" Column="31" TopLine="199"/>
+      </Position>
+      <Position>
+        <Filename Value="NuclideClassesMin.pas"/>
+        <Caret Line="445" Column="69" TopLine="432"/>
+      </Position>
+      <Position>
+        <Filename Value="NuclideClassesMin.pas"/>
+        <Caret Line="2168" Column="32" TopLine="2145"/>
+      </Position>
+      <Position>
+        <Filename Value="NuclideClassesMin.pas"/>
+        <Caret Line="2314" Column="32" TopLine="2291"/>
+      </Position>
+      <Position>
+        <Filename Value="NuclideClassesMin.pas"/>
+        <Caret Line="2385" Column="19" TopLine="2363"/>
+      </Position>
+      <Position>
+        <Filename Value="NuclideClassesMin.pas"/>
+        <Caret Line="2408" Column="32" TopLine="2385"/>
+      </Position>
+      <Position>
+        <Filename Value="NuclideClassesMin.pas"/>
+        <Caret Line="2472" Column="16" TopLine="2449"/>
+      </Position>
+      <Position>
+        <Filename Value="NuclideClassesMin.pas"/>
+        <Caret Line="2534" Column="35" TopLine="2509"/>
+      </Position>
+      <Position>
+        <Filename Value="NuclideClassesMin.pas"/>
+        <Caret Line="2540" Column="29" TopLine="2517"/>
+      </Position>
+      <Position>
+        <Filename Value="NuclideClassesMin.pas"/>
+        <Caret Line="2541" Column="29" TopLine="2518"/>
+      </Position>
+      <Position>
+        <Filename Value="NuclideClassesMin.pas"/>
+        <Caret Line="2852" Column="32" TopLine="2829"/>
+      </Position>
+      <Position>
+        <Filename Value="NuclideClassesMin.pas"/>
+        <Caret Line="2917" Column="32" TopLine="2894"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitChainFinderMin.pas"/>
+        <Caret Line="221" Column="32" TopLine="199"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitChainFinderMin.pas"/>
+        <Caret Line="216" Column="9" TopLine="203"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitChainFinderMin.pas"/>
+        <Caret Line="227" Column="68" TopLine="205"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitChainFinderMin.pas"/>
+        <Caret Line="224" TopLine="205"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitChainFinderMin.pas"/>
+        <Caret Line="508" TopLine="482"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitChainFinderMin.pas"/>
+        <Caret Line="65" Column="90" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitChainFinderMin.pas"/>
+        <Caret Line="518" Column="63" TopLine="503"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitDM_OOB.pas"/>
+        <Caret Line="18" Column="21" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="ChainFinderMinW64.ppr"/>
+        <Caret Line="8"/>
+      </Position>
+      <Position>
+        <Filename Value="ChainFinderMinW64.ppr"/>
+        <Caret Line="37" Column="28" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="UnitChainFinderMin.pas"/>
+        <Caret Line="530" Column="5" TopLine="503"/>
+      </Position>
+      <Position>
+        <Filename Value="Parsing.pas"/>
+        <Caret Line="58" Column="10" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="NuclideClassesMin.pas"/>
+        <Caret Line="569" Column="41" TopLine="555"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

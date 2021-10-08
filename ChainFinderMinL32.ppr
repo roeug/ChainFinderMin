@@ -1,0 +1,44 @@
+program ChainFinderMinL32;
+
+{$MODE Delphi}
+
+uses
+  Forms, Interfaces,
+  UnitDM_OOB,
+  UnitChainFinderMin in 'UnitChainFinderMin.pas',
+  UnitSplashFinderMin in 'UnitSplashFinderMin.pas';
+
+{$R *.res}
+
+begin
+ RequireDerivedFormResource := False;
+ Application.Scaled := True;
+
+ Application.Initialize;
+  _FormSplashFinder:= T_FormSplashFinder.Create(Application);
+  with _FormSplashFinder do begin
+   Show;
+   Update;{Process any pending Windows paint messages}
+  end;
+  _FormChainFinder:= T_FormChainFinder.Create(Application);
+  _DataModuleOOB:= T_DataModuleOOB.Create;//(Application);
+  _FormChainFinder.TheDataModule:= _DataModuleOOB;
+ try
+  with _FormSplashFinder do begin
+   _FormSplashFinder.Show;
+   _FormSplashFinder.Update;{Process any pending Windows paint messages}
+   if (_FormChainFinder.TheDataModule is T_DataModuleOOB) then begin
+    _FormChainFinder.CreateNuclideList;//Create NuclideList
+    _FormChainFinder.LoadNuclideList;//Load NuclideList
+   end;
+   _FormSplashFinder.Show;
+   _FormSplashFinder.Update;{Process any pending Windows paint messages}
+  end;
+  Application.ProcessMessages;
+ finally{Make sure the splash screen gets released}
+  _FormSplashFinder.Hide;
+  _FormChainFinder.Show;
+  Application.Run;
+ end;
+end.
+
