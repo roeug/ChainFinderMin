@@ -16,5 +16,5 @@ When load projects into IDE check "Unit output directore" and other paths!
 
 apt-get install libcanberra-gtk-module                              
 
-
+64-bit versions (the last ones) are at Gitlab now
   
